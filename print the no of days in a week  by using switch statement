@@ -1,0 +1,31 @@
+question-> print the no of days in a week by using the print statement
+public class main {
+public static void main(strings [] args){
+scanner in = new scanner(system.in)
+switch (day) {
+case 1:
+system.out.println("sunday");
+break;
+case 2:
+system.out.println("monday");
+break;
+case 3:
+system.out.println("tuesday");
+break;
+case 4:
+system.out.println("wednesday");
+break;
+case 5:
+system.out.println("thursday");
+break;
+case 6:
+system.out.println("friday");
+break;
+case 7:
+system.out.println("saturday");
+break; 
+}
+}
+}
+
+
